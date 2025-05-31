@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m @Nandhadeephan  <br>👀 Obsessed with all things Software Development  <br>🔭 Busy crafting my webpage  <br>🤝 Desperately seekingsend snacks too)  <br>🌱 Diving headfirst the Python💬 Hit me up with your burning questions  <br>⚡ Fun: Just call me Nandy, it’s way cooler!  <br><br><br><br><br>
+👋 Hey, I’m @Nandhadeephan  <br>👀 Obsessed with all things Software Development  <br>🔭 Busy crafting my webpage  <br>🤝 Desperately seekingsend snacks too)  <br>🌱 Diving headfirst the Python💬 Hit me up with your burning questions  <br>⚡ Fun: Just call me Nandy, it’s way cooler!  <br><br>
 
 
 ## 🌐 Socials:
