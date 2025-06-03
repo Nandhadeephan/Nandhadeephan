@@ -5,8 +5,9 @@
     src="https://www.canva.com/design/DAGTSwM8bY8/_zNb_yu0p1MDk8PvRpKu9w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTSwM8bY8&#x2F;_zNb_yu0p1MDk8PvRpKu9w&#x2F;view?utm_content=DAGTSwM8bY8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> by Nandha deephan
-# 👋 Hey, I’m Nandha Deephan:
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTSwM8bY8&#x2F;_zNb_yu0p1MDk8PvRpKu9w&#x2F;view?utm_content=DAGTSwM8bY8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a>
+<br>
+## 👋 Hey, I’m Nandha Deephan:
   👀 Obsessed with all things Software Development  <br>🔭 Busy crafting my webpage  <br>🤝 Desperately seekingsend snacks too)  <br>🌱 Diving headfirst the Python💬 Hit me up with your burning questions  <br>⚡ Fun: Just call me Nandy, it’s way cooler!  <br><br>
 
 
